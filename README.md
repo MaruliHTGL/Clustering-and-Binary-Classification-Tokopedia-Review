@@ -7,7 +7,7 @@ A tool to analyze Indonesian reviews of the Tokopedia application. This tool wil
 <br>
 
 - Using datasets from [kaggle](https://www.kaggle.com/datasets/rezkyyayang/reviews-of-indonesian-app-startups-on-playstore?select=tokopedia.csv)
-- For the complete code please check [this file](https://github.com/MaruliHTGL/Clustering-and-Multiclass-Classification-Customer-Segmentation/blob/bb1a96af1d1d961cf6005e587fc5ed224ebbaca0/Clustering%20and%20Multiclass%20Classification.ipynb)
+- For the complete code please check [this file](https://github.com/MaruliHTGL/Clustering-and-Binary-Classification-Tokopedia-Review/blob/3aac05d8d83bb34096a319b955ad0ef79fb67efd/Tokopedia%20Review.ipynb)
 - To test the model please visit [this link](https://tokopediareview.streamlit.app/)    <br> <br>
 - For positive review, use this review:
   <br>
