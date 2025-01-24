@@ -8,9 +8,15 @@ A tool to analyze Indonesian reviews of the Tokopedia application. This tool wil
 
 - Using datasets from [kaggle](https://www.kaggle.com/datasets/rezkyyayang/reviews-of-indonesian-app-startups-on-playstore?select=tokopedia.csv)
 - For the complete code please check [this file](https://github.com/MaruliHTGL/Clustering-and-Multiclass-Classification-Customer-Segmentation/blob/bb1a96af1d1d961cf6005e587fc5ed224ebbaca0/Clustering%20and%20Multiclass%20Classification.ipynb)
-- To test the model please visit [this link]([https://findcustomercluster.streamlit.app/](https://tokopediareview.streamlit.app/))
-- Positive review: Mudah digunakan, harganya murah, diskonnya banyak, dan barangnya sesuai dengan foto. Tokopedia sangat membantu sekali buat yang mager keluar rumah kayak aku. Terima kasih tokopedia.
-- Negative review: Gratis ongkirnya tidak ada, pengirimannya lama dan barang pesanannya lecet. Ditingkatkan lagi ya pelayanannya Tokopedia.
+- To test the model please visit [this link](https://tokopediareview.streamlit.app/)    <br> <br>
+- For positive review, use this review:
+  <br>
+  Mudah digunakan, harganya murah, diskonnya banyak, dan barangnya sesuai dengan foto. Tokopedia sangat membantu sekali buat yang mager keluar rumah kayak aku. Terima kasih tokopedia.
+  <br>
+  <br>
+- For negative review, use this review:
+  <br>
+  Gratis ongkirnya tidak ada, pengirimannya lama dan barang pesanannya lecet. Ditingkatkan lagi ya pelayanannya Tokopedia.
 
 <br>
 
