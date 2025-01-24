@@ -24,7 +24,7 @@ def main():
             </ul>
             <br>
             <p style='text-align: justify;'>
-                <strong>Disclaimer:<strong> This tool is only to help analyze and may analyze reviews incorrectly. Perform further analysis to reduce analysis errors
+                <strong>Disclaimer:</strong> This tool is only to help analyze and may analyze reviews incorrectly. Perform further analysis to reduce analysis errors
             </p>
             <br>
             <p style='text-align: center;'><strong>Let your users guide your next big move!</strong></p>
